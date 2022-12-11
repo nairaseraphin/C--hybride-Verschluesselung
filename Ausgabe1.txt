@@ -1,0 +1,5 @@
+﻿Erstellen gestartet...
+1>------ Erstellen gestartet: Projekt: TestKrypto, Konfiguration: Debug x64 ------
+1>Quelle.cpp
+1>TestKrypto.vcxproj -> C:\Users\alish\source\repos\TestKrypto\x64\Debug\TestKrypto.exe
+========== Erstellen: 1 erfolgreich, 0 Fehler, 0 aktuell, 0 übersprungen ==========
